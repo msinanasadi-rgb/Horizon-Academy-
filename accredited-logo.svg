@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" role="img" aria-label="Accredited">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#EDB96F"/>
+      <stop offset="100%" stop-color="#2B3446"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="198" height="58" rx="10" fill="#fff" stroke="url(#grad)" stroke-width="2"/>
+  <circle cx="30" cy="30" r="16" fill="url(#grad)"/>
+  <path d="M24 30 l4 4 l8 -10" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="60" y="37" font-family="Inter, Arial, sans-serif" font-size="20" fill="#2B3446" font-weight="700">Accredited</text>
+</svg>

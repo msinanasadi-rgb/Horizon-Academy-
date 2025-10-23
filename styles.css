@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@400;500;600;700&display=swap');
 /* Reset and base styles */
 * {
     margin: 0;
@@ -425,7 +426,7 @@ footer {
     line-height: 1.4;
 }
 
-.cta-button {
+footer .cta-button {
     background: #FF003C;
     color: #FFFFFF;
     border: none;
@@ -437,7 +438,7 @@ footer {
     transition: background 0.3s ease;
 }
 
-.cta-button:hover {
+footer .cta-button:hover {
     background: #E00035;
 }
 
